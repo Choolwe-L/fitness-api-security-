@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# App data
+app/fitness.db
+*.db
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

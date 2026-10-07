@@ -1,0 +1,9 @@
+services:
+  fitness-api:
+    build: .
+    container_name: fitness-api
+    ports:
+      - "5000:5000"
+    # Deliberately vulnerable lab target — bind to localhost only.
+    # Change to "127.0.0.1:5000:5000" to prevent LAN exposure.
+    restart: unless-stopped
