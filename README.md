@@ -107,16 +107,3 @@ fitness-api-security/
 └── README.md
 ```
 
-## 12-week roadmap
-1. **Foundations of Web & API Security** *(current)*
-2. Reconnaissance & API enumeration
-3. Authentication & authorization testing
-4. Injection & input-validation attacks
-5. Business-logic & rate-limiting flaws
-6. Custom Python security scripting
-7. Automated scanning & reporting
-8. Hardening: authentication & authorization
-9. Hardening: input validation & secrets management
-10. Secure deployment & cloud infrastructure
-11. Final penetration test & documentation
-12. Final report & presentation
